@@ -1,1 +1,1 @@
-# 多手势共存记录
+# Multi-gesture coexistence
